@@ -1,1 +1,1 @@
-It's Agnieszka Soszka first repository test.
+It's first repository test.
