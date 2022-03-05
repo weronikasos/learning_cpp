@@ -2,3 +2,7 @@ bin/*
 bin
 obj/*
 obj
+bank.layout
+bank.depend
+doxygen/*
+doxygen
