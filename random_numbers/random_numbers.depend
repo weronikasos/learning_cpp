@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648244867 source:c:\users\48791\desktop\c++\newfolder\nauka\learning_cpp\random_numbers\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
